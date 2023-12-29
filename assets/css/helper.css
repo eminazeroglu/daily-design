@@ -1,0 +1,33 @@
+.mulish {
+    font-family: 'Mulish', sans-serif;
+}
+.chevron-down {
+    background-image: url(../icons/chevron-down.svg);
+}
+.search-icon {
+    background-image: url(../icons/search.svg);
+}
+.active-diamond {
+    border-color: var(--pink-border);
+}
+.figma {
+    background-image: url(../icons/figma.svg);
+}
+.diamond {
+    background-image: url(../icons/diamond.svg);
+}
+.pink {
+    background-image: url(../icons/pink.svg);
+}
+.xd {
+    background-image: url(../icons/xd.svg);
+}
+.photoshop {
+    background-image: url(../icons/photoshop.svg);
+}
+.code {
+    background-image: url(../icons/code.svg);
+}
+.pray {
+    background-image: url(../icons/pray\ 1.svg);
+}
